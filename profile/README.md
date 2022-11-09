@@ -5,3 +5,5 @@ This is my organization for compiled Spotify IPAs. Right now we only have compil
 [julioverne-  Spotilife](https://julio.hackyouriphone.org/) *For Spotilife tweaked .deb*<br/>
 [aesthyrica- Sposify](https://repo.dynastic.co/package/com.spos) *For Sposify tweaked  .deb*<br/>
 [Am1nCmd- Spotify++](https://appdb.to/app/cydia/1900000540) *For ScreenShots*<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SpotCompiled&color=grey)
