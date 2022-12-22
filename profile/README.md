@@ -1,5 +1,5 @@
 ## What is this?<br/>
-This is my organization for compiled Spotify IPAs. Right now we only have compiled Spotilife IPA's, however I have plans to also have Sposify IPA's. <br/>
+This is my organization for compiled Spotify IPAs. Right now we only have compiled Spotilife IPA's, however I have plans to also have Sposify IPA's. Aswell as both, Spotilife and Sposify in one. <br/>
 
 ## Credits:<br/>
 [IOS God's Dycrypted App Store](https://armconverter.com/decryptedappstore/us/spotify) and [AppDB](https://appdb.to/app/ios/324684580)- Dycrypted Vanilla Spotify IPA<br/>
