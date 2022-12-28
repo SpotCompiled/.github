@@ -8,4 +8,6 @@ This is my organization for compiled Spotify IPAs. Right now we only have compil
 [Am1nCmd- Spotify++](https://appdb.to/app/cydia/1900000540) *For ScreenShots*<br/>
 [@RobyRew](https://github.com/RobyRew) *For helping me setup a lot of things*
 
+<sup><sub>We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.</sub></sup>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SpotCompiled&color=grey)
