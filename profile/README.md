@@ -3,9 +3,11 @@ This is my organization for compiled Spotify IPAs. We have compiled Spotilife, E
 
 ## Credits:<br/>
 [IOS God's Dycrypted App Store](https://armconverter.com/decryptedappstore/us/spotify) and [AppDB](https://appdb.to/app/ios/324684580)- *Dycrypted Vanilla Spotify IPA*<br/>
-[julioverne-  Spotilife](https://julio.hackyouriphone.org/) *For Spotilife tweaked .deb*<br/>
-[Whoeevee-  EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) *For EeveeSpotify tweaked .deb*<br/>
+[julioverne-  Spotilife](https://julio.hackyouriphone.org/) *For the original Spotilife tweak*<br/>
 [aesthyrica- Sposify](https://repo.dynastic.co/package/com.spos) *For Sposify tweaked  .deb*<br/>
+[Whoeevee-  EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) *For EeveeSpotify tweaked .deb*<br/>
+[ChiChou & Asdfzxcvbn-  BagBak](https://github.com/TbhLovers/bagbak) *For BagBak used to decrypt .ipa*<br/>
+[Asdfzxcvbn-  Pyzule](https://github.com/asdfzxcvbn/pyzule) *Used to inject tweaks and modify the .ipa*<br/>
 [Theos Team-  Orion Runtime (iOS 14 - 16)](https://chariz.com/get/orion-runtime14) *For Orion Runtime (iOS 14 - 16) tweaked .deb*<br/>
 [Apple inc.-  Swift Protobuf](https://github.com/apple/swift-protobuf)<br/>
 [level3tjg- Sposify Fix](https://level3tjg.me/repo/) *For Sposify Fix tweaked  .deb*<br/>
